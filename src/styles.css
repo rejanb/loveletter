@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    
+     background-color: #861657;
+     background-image: linear-gradient(326deg, #861657 10%, #ffa69e 74%);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+
+  }
